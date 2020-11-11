@@ -6,6 +6,9 @@ public class TemperatureSeriesAnalysis {
 
     }
 
+    public static void main(String[] args) {
+        TemperatureSeriesAnalysis Temperature_series_Analysis;
+    }
     public TemperatureSeriesAnalysis(double[] temperatureSeries) {
 
     }
